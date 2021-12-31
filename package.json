@@ -1,0 +1,21 @@
+{
+    "name": "purppy-vs-code",
+    "displayName": "Purppy",
+    "description": "A soft, purple colour scheme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Purppy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Purppy-color-theme.json"
+            }
+        ]
+    }
+}
