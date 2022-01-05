@@ -1,8 +1,11 @@
 {
     "name": "purppy-vs-code",
+    "repository": "https://github.com/1izardo/purppy-vs-code",
+    "publisher": "1izardo",
     "displayName": "Purppy",
     "description": "A soft, purple colour scheme.",
-    "version": "0.0.1",
+    "icon": "icon.png",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.63.0"
     },
