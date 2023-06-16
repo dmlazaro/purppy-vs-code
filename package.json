@@ -5,9 +5,9 @@
     "displayName": "Purppy",
     "description": "A soft, purple colour scheme.",
     "icon": "icon.png",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
-        "vscode": "^1.63.0"
+        "vscode": "^1.12.0"
     },
     "categories": [
         "Themes"
