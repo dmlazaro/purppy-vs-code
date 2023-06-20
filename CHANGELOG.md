@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "purppy-vs-code" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
 - Initial release
@@ -18,3 +14,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Changed
 
 - Updated Awwrora colours to match latest version of Purppy
+
+## [0.2.1] - 2023-06-20
+
+### Changed
+
+- Updated terminal ANSI colours to be more accurate
